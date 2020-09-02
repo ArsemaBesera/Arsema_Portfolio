@@ -25,8 +25,8 @@ Steps Taken:
 
 This notebooks looks into using Python-based machine learning and data science libraries in attempt to build a machine learning model capable of predicting the future sale price of a bulldozer, given its characteristics and previous examples of how much similar bulldozers have been sold for.
 
-2. Data¶
-The data is downloaded from the located here: [Kaggle Bluebook for Bulldozers competition] (https://www.kaggle.com/c/bluebook-for-bulldozers/data)
+2. Data
+The data is downloaded from the located here: [Kaggle Bluebook for Bulldozers competition](https://www.kaggle.com/c/bluebook-for-bulldozers/data)
 
 Steps Taken: 
 * Exploratory data analysis - finding patterns as well as visualizations.
