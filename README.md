@@ -100,4 +100,4 @@ Steps Taken:
 * Visualizations 
 * Technical Report 
 
-![](/images/Screen%20Shot%202020-09-02%20at%204.26.19%20PM.Png)
+![](/images/Screen%20Shot%202020-09-02%20at%204.26.19%20PM.png)
