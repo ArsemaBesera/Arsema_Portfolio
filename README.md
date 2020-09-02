@@ -16,7 +16,7 @@ Steps Taken:
 * Feature Importance
 
 
-![](/images/Screen%20Shot%202020-08-27%20at%201.16.07%20PM.png)
+![](/.images/Screen%20Shot%202020-08-27%20at%201.16.07%20PM.png)
 
 
 
@@ -37,7 +37,7 @@ Steps Taken:
 * Feature Importance
 
 
-![](/images/Screen%20Shot%202020-09-02%20at%2012.58.58%20PM.png)
+![](/.images/Screen%20Shot%202020-09-02%20at%2012.58.58%20PM.png)
 
 
 ## [Project 3: Project Overview : Profitability and risk of different investments using the Sharpe Ratio.](https://github.com/ArsemaBesera/Sharpe-Ratio-Project/blob/master/Sharpe%20Ratio%20Complete%20Project.ipynb)
