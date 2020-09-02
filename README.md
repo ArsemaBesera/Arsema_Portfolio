@@ -59,8 +59,12 @@ Steps Taken:
 Logistic regression analysis has been used to construct a predictive model using SAS for heart disease using various predictors - this project was completed in a group of 3 in my Data Analysis and Regression course. 
 
 The data was from Kaggle: https://www.kaggle.com/amanajmera1/framingham-heart-study-dataset
+
 [Code for this project](https://docs.google.com/document/d/127ocusVnnYgD9p4_Vnb-2Tw0bumUPPx2OM2BglBISXA/edit?usp=sharing) 
+
 [Visualizations](https://docs.google.com/document/d/1-x1IDZcvbVrmXz0vmHtqfRuArYAc1x6Ffk6g2Jdh5Bc/edit?usp=sharing)
+
+
 [Final Report as above in Project link](https://docs.google.com/document/d/1WjyLIZy3Z77E65dbrs7RigIHa_jq6qkouBWKnh8tpHU/edit?usp=sharing)
 
 Steps Taken: 
@@ -78,10 +82,16 @@ Steps Taken:
 ## [Project 5: Project Overview : Data Visualization - R & Tableau](https://docs.google.com/document/d/1WjyLIZy3Z77E65dbrs7RigIHa_jq6qkouBWKnh8tpHU/edit?usp=sharing)
 
 Data cleaning, transformation and analysis were conducted with the goal to create data visualizations using R & Tableau.
+
+
 [Final report](https://docs.google.com/document/d/1jH7Zzp-9sXk-5gYlNLpz3H6z_vr4rVLWHqQox_Vg98U/edit?usp=sharing)
 
 [R history data as a download](https://drive.google.com/file/d/1lISf7lKWuLACwFh56snMuiEM2MnGl2E6/view?usp=sharing)
+
+
 [Rideshare data from the city of Chicago data portal for this project. Three datasets were analyzed: trips, drivers and vehicles](https://data.cityofchicago.org/Transportation/Transportation-Network-Providers-Trips/m6dm-c72p)  
+
+
 
 [Additional visualizations](https://docs.google.com/document/d/1h6IrJJlAeT8rwFtXRvbXQGAznyDuV6ddvc35QbjYtFQ/edit?usp=sharing)
 
