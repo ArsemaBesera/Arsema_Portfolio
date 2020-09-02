@@ -16,7 +16,7 @@ Steps Taken:
 * Feature Importance
 
 
-![](https://github.com/ArsemaBesera/Arsema_Portfolio/blob/master/images/Screen%20Shot%202020-08-27%20at%201.16.07%20PM.png)
+![](/images/Screen%20Shot%202020-08-27%20at%201.16.07%20PM.png)
 
 
 
@@ -37,7 +37,7 @@ Steps Taken:
 * Feature Importance
 
 
-![](https://github.com/ArsemaBesera/Arsema_Portfolio/blob/master/images/Screen%20Shot%202020-09-02%20at%2012.58.58%20PM.png)
+![](/images/Screen%20Shot%202020-09-02%20at%2012.58.58%20PM.png)
 
 
 ## [Project 3: Project Overview : Profitability and risk of different investments using the Sharpe Ratio.](https://github.com/ArsemaBesera/Sharpe-Ratio-Project/blob/master/Sharpe%20Ratio%20Complete%20Project.ipynb)
@@ -50,4 +50,4 @@ Steps Taken:
 * Sharpe Ratio Pt 1 - Avg Difference in Daily Returns Stocks vs S&P 500
 * Sharpe Ratio Pt 2 - Std Deviation of the Return Difference
 
-![](https://github.com/ArsemaBesera/Arsema_Portfolio/blob/master/images/Screen%20Shot%202020-09-02%20at%203.32.23%20PM.png)
+![](/images/Screen%20Shot%202020-09-02%20at%203.32.23%20PM.png)
