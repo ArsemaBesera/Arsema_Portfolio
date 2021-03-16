@@ -25,8 +25,8 @@ Steps Taken:
 
 This notebooks looks into using Python-based machine learning and data science libraries in attempt to build a machine learning model capable of predicting the future sale price of a bulldozer, given its characteristics and previous examples of how much similar bulldozers have been sold for.
 
-2. Data
-The data is downloaded from the located here: [Kaggle Bluebook for Bulldozers competition](https://www.kaggle.com/c/bluebook-for-bulldozers/data)
+
+The data is downloaded from:[Kaggle Bluebook for Bulldozers competition](https://www.kaggle.com/c/bluebook-for-bulldozers/data)
 
 Steps Taken: 
 * Exploratory data analysis - finding patterns as well as visualizations.
@@ -56,7 +56,7 @@ Steps Taken:
 
 ## [Project 4: Project Overview : Heart Disease Prediction using SAS](https://docs.google.com/document/d/1WjyLIZy3Z77E65dbrs7RigIHa_jq6qkouBWKnh8tpHU/edit?usp=sharing)
 
-Logistic regression analysis has been used to construct a predictive model using SAS for heart disease using various predictors - this project was completed in a group of 3 in my Data Analysis and Regression course. 
+A logistic regression analysis was used to construct a predictive model using SAS for heart disease using various predictors - this project was completed in a group of 3 in my Data Analysis and Regression course. 
 
 The data was from Kaggle: https://www.kaggle.com/amanajmera1/framingham-heart-study-dataset
 
